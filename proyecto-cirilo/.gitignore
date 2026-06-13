@@ -1,0 +1,55 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+*.meta
+
+# ============== #
+# Visual Studio  #
+# ============== #
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============== #
+# Rider / JetBrains #
+# ============== #
+.idea/
+*.sln.iml
+
+# ================= #
+# Unity Collaborate #
+# ================= #
+/Packages/com.unity.collab-proxy/
+
+# ================= #
+# Cache / Autogen   #
+# ================= #
+/*.pidb
+/*/Assembly-CSharp.csproj
+/*/Assembly-CSharp-Editor.csproj
+/*.unityproj
+/*.booproj
+/.DS_Store
+Thumbs.db
+
+# ================= #
+# Builds            #
+# ================= #
+/Build/
+/Builds/
